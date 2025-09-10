@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "stdlib.h": "c",
+        "new": "cpp",
+        "stdio.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
